@@ -25,3 +25,8 @@ lst = [1, 3, 6 ,7, 9, 10, 12]
 binarySearch(lst, 9)
 binarySearch(lst, 1)
 binarySearch(lst, 20)
+
+# stdout
+# Element 9 is found at position 4
+# Element 1 is found at position 0
+# Element 20 is not found in the given list
